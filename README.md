@@ -6,7 +6,6 @@ To download, click the [Releases](https://github.com/vjmanzo/Fatal-Fire/releases
 
 
 <br><br>
-Additionally, fully-offline, non-updatable archival version of the app is also available for [for Mac](https://vjmanzo.com/ff/ Fatal-Fire-1.0.7-arm64.dmg) and [for Windows](https://vjmanzo.com/ff/
-Fatal.Fire-1.0.7.Setup.exe]). <br><br>
+Additionally, fully-offline, non-updatable archival version of the app is also available for [for Mac](https://vjmanzo.com/ff/Fatal-Fire-Mac.dmg) and [for Windows](https://vjmanzo.com/ff/Fatal-Fire-Win.exe]). <br><br>
 
 For more information, visit http://fatalfire.com
