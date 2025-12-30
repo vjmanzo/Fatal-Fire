@@ -8,3 +8,9 @@ To download, click the [Releases](https://github.com/vjmanzo/Fatal-Fire/releases
 Additionally, a fully-offline, non-updatable archival version of the app is available for [Mac](https://vjmanzo.com/ff/releases/Fatal-Fire-Mac.dmg) and [Windows](https://vjmanzo.com/ff/releases/Fatal-Fire-Win.zip); though the above version is highly recommended in lieu of this one. <br><br>
 
 For more information, visit http://fatalfire.com
+
+### Related Repositories
+
+- The main website repository is available at [https://github.com/vjmanzo/FatalFire/](https://github.com/vjmanzo/fatalfire)
+- The standalone app repository is available at [https://github.com/vjmanzo/Fatal-Fire/](https://github.com/vjmanzo/fatalfire-electron/)
+- The standalone app releases are available at [https://github.com/vjmanzo/Fatal-Fire/](https://github.com/vjmanzo/Fatal-Fire)
